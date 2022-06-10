@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bed
+  - Int_Area
+  - Draw
+  - Cam_Space
+  - Room1
+  - Room2
+  - Room3
+  - Happy
+  - Sad
+  - Melancholy
+  - Gun
+  - GunPoint
+  - Enemy_Spawn
+  - EntersRoom2
+  - Enemy
+  - Platform
+  - PlatformChild
+  - Stairs
+  - SphereBlackHole
+  - AttackToLeft
+  - AttackToRight
+  - Feet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactive
+  - Happy
+  - Sad
+  - Melancholy
+  - Floor
+  - GunPoint
+  - Player
+  - IntArea
+  - Enemy
+  - FinalEnd
+  - EnemyDetector
+  - Walls
+  - Nodes
+  - Soul
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
