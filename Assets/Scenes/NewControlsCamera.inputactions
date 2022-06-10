@@ -1,0 +1,33 @@
+{
+    "name": "NewControlsCamera",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "691fe6d0-dd0e-422b-827f-0c41fcf01059",
+            "actions": [
+                {
+                    "name": "Look",
+                    "type": "PassThrough",
+                    "id": "b4eeadc1-c62b-4442-a670-3841eb0463c6",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "813b29bc-7246-44db-a72e-74abee6f61f9",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
